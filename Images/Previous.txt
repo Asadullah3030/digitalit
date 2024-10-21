@@ -1,0 +1,27 @@
+
+<lord-icon src="https://cdn.lordicon.com/becebamh.json" trigger="hover" colors="primary:#ffffff" style="width:31px;height:31px" class="lefty">
+              </lord-icon>
+
+
+
+
+
+
+
+
+
+
+
+
+Previous style Reeels 
+
+without javascript
+
+<div class="col-lg-3 col-md-6 col-sm-6 col-6 mt-md-4 mt-lg-0 mt-sm-4 mt-4">
+          <div class="inside">
+            <a href="InstagramReelsDownloader.html">
+              <lord-icon src="https://cdn.lordicon.com/wgdqrxxf.json" trigger="hover" colors="primary:#ffffff" style="width:30px;height:30px" class="lefty">
+              </lord-icon>
+              Reels</a>
+          </div>
+        </div>

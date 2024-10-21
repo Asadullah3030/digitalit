@@ -1,0 +1,52 @@
+ <div class="container">
+      <div class="row mt-4">
+          <div class="col-12">
+              <h2 class="text-center"><strong>DigitalBit</strong> - Best Instagram Downloader</h2>
+             <p class="mt-3"><strong>DigitalBit</strong>: is an online Instagram Downloader. Support download Videos, Photos, Stories, Reels and IGTV from Instagram in few simple steps.
+             </p>
+             <p class="mt-3"><strong>DigitalBit</strong>: is a website that allows you to download high quality Instagram content (download Instagram videos in mp4 format, download Reels videos, download Photo, Download Story). Just paste the Instagram link into the input box on the DigitalBit website to download any Instagram content.
+             </p>
+             <p><strong>Instagram Video Downloader</strong> works on web browser, supports download Instagram videos on all devices (PC, Mac, Android, iOS) without installing supporting software.</p>
+
+             <h2 class="text-center mt-3">Why should you use <strong>DigitalBit</strong> - Instagram Downloader?
+            </h2>
+
+            <p class="mt-3"><strong>What is Instagram?</strong> Instagram (often abbreviated as IG or Insta) is a social network that allows users to share popular photos and videos. Users can download the free Instagram app on iOS and Android platforms to enjoy a variety of experiences by photo, story, reels and video editing modes.</p>
+
+            <p>Every day, millions of new photos and videos are posted on Instagram, but Instagram does not allow users to download and store photos and videos to your device. The best way to get Instagram content is through third-party sites like DigitalBit downloader.</p>
+
+            <h5 class="fw-bold m-t3">Features of DigitalBit</h5>
+
+            <p>
+                <ul>
+                    <li><strong>Download Instagram:</strong> DigitalBit allow download videos from Instagram with HD video quality (without changing the quality of the original video).</li>
+                </ul>
+            </p>
+
+            <p>
+              <ul>
+                  <li><strong>Download Facebook Photo</strong> : makes it easy to download and save Instagram images easily. Allows image download of any Insta post.</li>
+              </ul>
+          </p>
+
+          <p>
+            <ul>
+                <li><strong>Download Tiktok Video</strong>: Tiktok is a long video on Instagram, SaveInsta supports download Tiktok videos to your device for storage or playback when there is no 3G, wifi connection.</li>
+            </ul>
+        </p>
+
+        <h2 class="text-center mt-3">How to download photos and videos on DigitalBit?</h2>
+
+        <p><strong>Step 1</strong>: Open the Instagram app on phone or go to the Instagram.com website on PC and login your account.</p>
+
+        <p><strong>Step 2</strong>: Find the content you want to download and click on the icon (...) above the post and then continue pressing the Copy Link option.</p>
+
+        <div class="text-center mt-4">
+            <img src="images/bit.jpg" alt="" class="img-fluid">
+        </div>
+
+        <p class="mt-4"><strong>Step 3</strong>: Go to the website DigitalBit.app, paste the Instagram link you just copied into input box and press the Download button.</p>
+
+        <p><strong>Step 4</strong>: Photo and Video you want to download will appear, click Download Photo or Download Video button inside under a photo or video, then the file will be saved to your device.</p>
+
+        <p class="fst-italic">With DigitalBit.app you can download any Instagram content (Videos, Photos, Reels, Story, ). We will continuously upgrade to bring you the best experience! Please share this tool with friends and family. Thank you!</p>
